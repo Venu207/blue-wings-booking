@@ -2,15 +2,14 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/8dc25c73-6abd-421b-8a38-4f9e5892d709
-
+**URL**: https://blue-wings-booking.lovable.app/
 ## How can I edit this code?
 
 There are several ways of editing your application.
 
 **Use Lovable**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/8dc25c73-6abd-421b-8a38-4f9e5892d709) and start prompting.
+Simply visit the [Lovable Project](https://blue-wings-booking.lovable.app/) and start prompting.
 
 Changes made via Lovable will be committed automatically to this repo.
 
